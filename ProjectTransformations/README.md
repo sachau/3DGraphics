@@ -3,7 +3,11 @@ February 12, 2016
 CSS 451   
 
 # Canonical and Procedural Modeling
+
 ## Design Description (UI/UX) and UI elements:
+### Initial design
+![ui](https://cloud.githubusercontent.com/assets/9274886/25075677/236d0478-22ce-11e7-9e0b-9b0259388600.png)
+
  
 The user experience in this program would be that the program allows for the user to draw three 3D shapes by clicking on their respective buttons. There will be a panel that has all the buttons that allows the user to control the shape. There are buttons for each transformation (translate, rotate, scale, and shear). Each shape will have their own set of buttons that will perform the transformation. 
 ### Sphere Button
