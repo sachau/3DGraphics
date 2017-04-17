@@ -17,7 +17,8 @@ By: Kunlakan Cherdchusilp (Jeen), Sandy Chau, Vuochly Ky (Nin)
 ### Correctness	  
 ●	All inputs, such as keys on the keyboard and mouse click, shall behave as specified in the requirement. If they are not specified, they shall do nothing when being pressed.  
 ●	Images loaded onto screen shall appear without disfiguration.   
-Reliability	●	The user should be able to run the program on a Windows or Mac OSX operating consistently.   
+### Reliability	
+●	The user should be able to run the program on a Windows or Mac OSX operating consistently.   
 ●	The user should expect the simulation to run each time upon loading  
 ●	Crashes due to the software bugs should be minimized.  
 ### Robustness    
