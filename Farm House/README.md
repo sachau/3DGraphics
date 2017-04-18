@@ -49,5 +49,8 @@ By: Kunlakan Cherdchusilp (Jeen), Sandy Chau, Vuochly Ky (Nin)
 
 
 ![chicken](https://cloud.githubusercontent.com/assets/9274886/25076281/4ab764e6-22d4-11e7-914d-4d9e647bc9f3.png)
+![untitled](https://cloud.githubusercontent.com/assets/9274886/25150797/fcfad606-2437-11e7-9720-df60344e8670.png)
+![cow](https://cloud.githubusercontent.com/assets/9274886/25150800/fed20c60-2437-11e7-8d76-4bdba9b70042.png)
+
 ![animals](https://cloud.githubusercontent.com/assets/9274886/25076282/4c2fa16c-22d4-11e7-9dde-e0216f9eb04a.png)
 
